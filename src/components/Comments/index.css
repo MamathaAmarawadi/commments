@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.row {
+  display: flex;
+  margin: 30px;
+}
+.container {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 100px;
+}
+.input {
+  height: 40px;
+  width: 380px;
+  margin-bottom: 30px;
+}
+.heading {
+  font-weight: bold;
+}
+.btn {
+  border-radius: 10px;
+  background-color: #0284c7;
+  color: white;
+
+  height: 30px;
+  border-width: 0px;
+  margin-top: 20px;
+}
+.pic {
+  margin: 40px;
+  margin-left: 460px;
+  height: 250px;
+  width: 350px;
+}
+.img {
+  height: 380px;
+  width: 350px;
+}
+.row1 {
+  display: flex;
+}
+.fill {
+  margin-right: 10px;
+  background-color: #0b69ff;
+  color: white;
+  border-radius: 30px;
+  width: 30px;
+  text-align: center;
+  height: 45px;
+}
+.ul {
+  list-style-type: none;
+}
